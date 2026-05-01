@@ -5,4 +5,5 @@
 [submodule "infomap"]
 	path = infomap
 	url = https://github.com/mapequation/infomap
+	branch = feat/infomapR
 	subdir = interfaces/R/infomap
